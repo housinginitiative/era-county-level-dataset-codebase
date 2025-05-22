@@ -1,0 +1,1029 @@
+"county","cousub20","CountyName","MCDName","pop20","afact2","afact"
+"County code","County subdivision (2020)","County name","County subdivision / MCD name","Total population (2020 Census)","cousub20-to-county allocation factor","county-to-cousub20 allocation factor"
+"36001","01000","Albany NY","Albany city, Albany NY",99224,1,0.3151 
+"36001","06211","Albany NY","Berne town, Albany NY",2689,1,0.0085 
+"36001","06354","Albany NY","Bethlehem town, Albany NY",35034,1,0.1113 
+"36001","16694","Albany NY","Coeymans town, Albany NY",7256,1,0.023 
+"36001","16749","Albany NY","Cohoes city, Albany NY",18147,1,0.0576 
+"36001","17343","Albany NY","Colonie town, Albany NY",85590,1,0.2718 
+"36001","30532","Albany NY","Green Island town, Albany NY",2934,1,0.0093 
+"36001","31104","Albany NY","Guilderland town, Albany NY",36848,1,0.117 
+"36001","40002","Albany NY","Knox town, Albany NY",2635,1,0.0084 
+"36001","50672","Albany NY","New Scotland town, Albany NY",9096,1,0.0289 
+"36001","61181","Albany NY","Rensselaerville town, Albany NY",1826,1,0.0058 
+"36001","78674","Albany NY","Watervliet city, Albany NY",10375,1,0.033 
+"36001","79851","Albany NY","Westerlo town, Albany NY",3194,1,0.0101 
+"36003","01209","Allegany NY","Alfred town, Allegany NY",5157,1,0.111 
+"36003","01319","Allegany NY","Allen town, Allegany NY",494,1,0.0106 
+"36003","01429","Allegany NY","Alma town, Allegany NY",781,1,0.0168 
+"36003","01451","Allegany NY","Almond town, Allegany NY",1512,1,0.0325 
+"36003","02011","Allegany NY","Amity town, Allegany NY",2171,1,0.0467 
+"36003","02154","Allegany NY","Andover town, Allegany NY",1615,1,0.0348 
+"36003","02187","Allegany NY","Angelica town, Allegany NY",1272,1,0.0274 
+"36003","05573","Allegany NY","Belfast town, Allegany NY",1637,1,0.0352 
+"36003","06717","Allegany NY","Birdsall town, Allegany NY",190,1,0.0041 
+"36003","07201","Allegany NY","Bolivar town, Allegany NY",2029,1,0.0437 
+"36003","11253","Allegany NY","Burns town, Allegany NY",1036,1,0.0223 
+"36003","12243","Allegany NY","Caneadea town, Allegany NY",2294,1,0.0494 
+"36003","13475","Allegany NY","Centerville town, Allegany NY",929,1,0.02 
+"36003","15990","Allegany NY","Clarksville town, Allegany NY",976,1,0.021 
+"36003","19367","Allegany NY","Cuba town, Allegany NY",3126,1,0.0673 
+"36003","27705","Allegany NY","Friendship town, Allegany NY",1944,1,0.0418 
+"36003","28563","Allegany NY","Genesee town, Allegany NY",1633,1,0.0352 
+"36003","29905","Allegany NY","Granger town, Allegany NY",519,1,0.0112 
+"36003","30994","Allegany NY","Grove town, Allegany NY",489,1,0.0105 
+"36003","36112","Allegany NY","Hume town, Allegany NY",2073,1,0.0446 
+"36003","37297","Allegany NY","Independence town, Allegany NY",1085,1,0.0234 
+"36003","50375","Allegany NY","New Hudson town, Allegany NY",792,1,0.017 
+"36003","54523","Allegany NY","Oil Springs Reservation, Allegany NY",7,1,0.0002 
+"36003","64166","Allegany NY","Rushford town, Allegany NY",1079,1,0.0232 
+"36003","65772","Allegany NY","Scio town, Allegany NY",1614,1,0.0347 
+"36003","78201","Allegany NY","Ward town, Allegany NY",334,1,0.0072 
+"36003","79103","Allegany NY","Wellsville town, Allegany NY",7064,1,0.1521 
+"36003","79202","Allegany NY","West Almond town, Allegany NY",274,1,0.0059 
+"36003","82095","Allegany NY","Willing town, Allegany NY",1281,1,0.0276 
+"36003","82623","Allegany NY","Wirt town, Allegany NY",1049,1,0.0226 
+"36005","08510","Bronx NY","Bronx borough, Bronx NY",1472654,1,1 
+"36007","04429","Broome NY","Barker town, Broome NY",2509,1,0.0126 
+"36007","06607","Broome NY","Binghamton city, Broome NY",47969,1,0.2414 
+"36007","06618","Broome NY","Binghamton town, Broome NY",4617,1,0.0232 
+"36007","15110","Broome NY","Chenango town, Broome NY",10959,1,0.0552 
+"36007","17046","Broome NY","Colesville town, Broome NY",4868,1,0.0245 
+"36007","17772","Broome NY","Conklin town, Broome NY",5008,1,0.0252 
+"36007","20588","Broome NY","Dickinson town, Broome NY",5100,1,0.0257 
+"36007","25604","Broome NY","Fenton town, Broome NY",6429,1,0.0324 
+"36007","39837","Broome NY","Kirkwood town, Broome NY",5481,1,0.0276 
+"36007","42653","Broome NY","Lisle town, Broome NY",2691,1,0.0135 
+"36007","44611","Broome NY","Maine town, Broome NY",5168,1,0.026 
+"36007","49396","Broome NY","Nanticoke town, Broome NY",1581,1,0.008 
+"36007","65112","Broome NY","Sanford town, Broome NY",2239,1,0.0113 
+"36007","75319","Broome NY","Triangle town, Broome NY",2809,1,0.0141 
+"36007","76056","Broome NY","Union town, Broome NY",56138,1,0.2826 
+"36007","77255","Broome NY","Vestal town, Broome NY",29313,1,0.1475 
+"36007","82535","Broome NY","Windsor town, Broome NY",5804,1,0.0292 
+"36009","01297","Cattaraugus NY","Allegany town, Cattaraugus NY",7493,1,0.0973 
+"36009","01308","Cattaraugus NY","Allegany Reservation, Cattaraugus NY",1064,1,0.0138 
+"36009","02759","Cattaraugus NY","Ashford town, Cattaraugus NY",1961,1,0.0255 
+"36009","12661","Cattaraugus NY","Carrollton town, Cattaraugus NY",1207,1,0.0157 
+"36009","13035","Cattaraugus NY","Cattaraugus Reservation, Cattaraugus NY",498,1,0.0065 
+"36009","16903","Cattaraugus NY","Coldspring town, Cattaraugus NY",658,1,0.0085 
+"36009","17684","Cattaraugus NY","Conewango town, Cattaraugus NY",1785,1,0.0232 
+"36009","19840","Cattaraugus NY","Dayton town, Cattaraugus NY",1690,1,0.0219 
+"36009","22678","Cattaraugus NY","East Otto town, Cattaraugus NY",974,1,0.0126 
+"36009","24031","Cattaraugus NY","Ellicottville town, Cattaraugus NY",1315,1,0.0171 
+"36009","25340","Cattaraugus NY","Farmersville town, Cattaraugus NY",1073,1,0.0139 
+"36009","27342","Cattaraugus NY","Franklinville town, Cattaraugus NY",2802,1,0.0364 
+"36009","27441","Cattaraugus NY","Freedom town, Cattaraugus NY",2261,1,0.0293 
+"36009","30257","Cattaraugus NY","Great Valley town, Cattaraugus NY",1991,1,0.0258 
+"36009","34946","Cattaraugus NY","Hinsdale town, Cattaraugus NY",2113,1,0.0274 
+"36009","36123","Cattaraugus NY","Humphrey town, Cattaraugus NY",703,1,0.0091 
+"36009","37825","Cattaraugus NY","Ischua town, Cattaraugus NY",736,1,0.0096 
+"36009","41982","Cattaraugus NY","Leon town, Cattaraugus NY",1244,1,0.0161 
+"36009","42840","Cattaraugus NY","Little Valley town, Cattaraugus NY",1675,1,0.0217 
+"36009","43896","Cattaraugus NY","Lyndon town, Cattaraugus NY",685,1,0.0089 
+"36009","44237","Cattaraugus NY","Machias town, Cattaraugus NY",2310,1,0.03 
+"36009","45161","Cattaraugus NY","Mansfield town, Cattaraugus NY",843,1,0.0109 
+"36009","49462","Cattaraugus NY","Napoli town, Cattaraugus NY",1171,1,0.0152 
+"36009","49880","Cattaraugus NY","New Albion town, Cattaraugus NY",1981,1,0.0257 
+"36009","54523","Cattaraugus NY","Oil Springs Reservation, Cattaraugus NY",13,1,0.0002 
+"36009","54716","Cattaraugus NY","Olean city, Cattaraugus NY",13937,1,0.1809 
+"36009","54727","Cattaraugus NY","Olean town, Cattaraugus NY",1881,1,0.0244 
+"36009","55783","Cattaraugus NY","Otto town, Cattaraugus NY",777,1,0.0101 
+"36009","57298","Cattaraugus NY","Perrysburg town, Cattaraugus NY",1518,1,0.0197 
+"36009","57331","Cattaraugus NY","Persia town, Cattaraugus NY",2207,1,0.0286 
+"36009","59509","Cattaraugus NY","Portville town, Cattaraugus NY",3504,1,0.0455 
+"36009","60587","Cattaraugus NY","Randolph town, Cattaraugus NY",2469,1,0.032 
+"36009","60950","Cattaraugus NY","Red House town, Cattaraugus NY",27,1,0.0004 
+"36009","64749","Cattaraugus NY","Salamanca city, Cattaraugus NY",5929,1,0.077 
+"36009","64760","Cattaraugus NY","Salamanca town, Cattaraugus NY",470,1,0.0061 
+"36009","69870","Cattaraugus NY","South Valley town, Cattaraugus NY",250,1,0.0032 
+"36009","84055","Cattaraugus NY","Yorkshire town, Cattaraugus NY",3827,1,0.0497 
+"36011","00000","Cayuga NY","[undefined MCD], Cayuga NY",0,,0 
+"36011","03078","Cayuga NY","Auburn city, Cayuga NY",26866,1,0.3523 
+"36011","03166","Cayuga NY","Aurelius town, Cayuga NY",2611,1,0.0342 
+"36011","10297","Cayuga NY","Brutus town, Cayuga NY",4314,1,0.0566 
+"36011","12969","Cayuga NY","Cato town, Cayuga NY",2445,1,0.0321 
+"36011","17849","Cayuga NY","Conquest town, Cayuga NY",1791,1,0.0235 
+"36011","26231","Cayuga NY","Fleming town, Cayuga NY",2477,1,0.0325 
+"36011","28673","Cayuga NY","Genoa town, Cayuga NY",1815,1,0.0238 
+"36011","37660","Cayuga NY","Ira town, Cayuga NY",2142,1,0.0281 
+"36011","41740","Cayuga NY","Ledyard town, Cayuga NY",1655,1,0.0217 
+"36011","43071","Cayuga NY","Locke town, Cayuga NY",1879,1,0.0246 
+"36011","46602","Cayuga NY","Mentz town, Cayuga NY",2114,1,0.0277 
+"36011","48131","Cayuga NY","Montezuma town, Cayuga NY",1177,1,0.0154 
+"36011","48307","Cayuga NY","Moravia town, Cayuga NY",3323,1,0.0436 
+"36011","51198","Cayuga NY","Niles town, Cayuga NY",1137,1,0.0149 
+"36011","55871","Cayuga NY","Owasco town, Cayuga NY",3552,1,0.0466 
+"36011","65816","Cayuga NY","Scipio town, Cayuga NY",1531,1,0.0201 
+"36011","66278","Cayuga NY","Sempronius town, Cayuga NY",840,1,0.011 
+"36011","66443","Cayuga NY","Sennett town, Cayuga NY",3304,1,0.0433 
+"36011","70376","Cayuga NY","Springport town, Cayuga NY",2227,1,0.0292 
+"36011","71146","Cayuga NY","Sterling town, Cayuga NY",3221,1,0.0422 
+"36011","72037","Cayuga NY","Summerhill town, Cayuga NY",1108,1,0.0145 
+"36011","73770","Cayuga NY","Throop town, Cayuga NY",1831,1,0.024 
+"36011","77024","Cayuga NY","Venice town, Cayuga NY",1236,1,0.0162 
+"36011","77420","Cayuga NY","Victory town, Cayuga NY",1652,1,0.0217 
+"36013","00000","Chautauqua NY","[undefined MCD], Chautauqua NY",0,,0 
+"36013","02605","Chautauqua NY","Arkwright town, Chautauqua NY",1008,1,0.0079 
+"36013","11451","Chautauqua NY","Busti town, Chautauqua NY",7543,1,0.0591 
+"36013","12639","Chautauqua NY","Carroll town, Chautauqua NY",3456,1,0.0271 
+"36013","13035","Chautauqua NY","Cattaraugus Reservation, Chautauqua NY",43,1,0.0003 
+"36013","13860","Chautauqua NY","Charlotte town, Chautauqua NY",1527,1,0.012 
+"36013","14069","Chautauqua NY","Chautauqua town, Chautauqua NY",4009,1,0.0314 
+"36013","14072","Chautauqua NY","Chautauqua Lake UT, Chautauqua NY",0,,0 
+"36013","15198","Chautauqua NY","Cherry Creek town, Chautauqua NY",1037,1,0.0081 
+"36013","16595","Chautauqua NY","Clymer town, Chautauqua NY",1753,1,0.0137 
+"36013","21105","Chautauqua NY","Dunkirk city, Chautauqua NY",12743,1,0.0998 
+"36013","21116","Chautauqua NY","Dunkirk town, Chautauqua NY",1240,1,0.0097 
+"36013","23976","Chautauqua NY","Ellery town, Chautauqua NY",4122,1,0.0323 
+"36013","23998","Chautauqua NY","Ellicott town, Chautauqua NY",8768,1,0.0687 
+"36013","24053","Chautauqua NY","Ellington town, Chautauqua NY",1497,1,0.0117 
+"36013","27606","Chautauqua NY","French Creek town, Chautauqua NY",1007,1,0.0079 
+"36013","28838","Chautauqua NY","Gerry town, Chautauqua NY",1782,1,0.014 
+"36013","32050","Chautauqua NY","Hanover town, Chautauqua NY",6972,1,0.0546 
+"36013","32248","Chautauqua NY","Harmony town, Chautauqua NY",2121,1,0.0166 
+"36013","38264","Chautauqua NY","Jamestown city, Chautauqua NY",28712,1,0.2249 
+"36013","39507","Chautauqua NY","Kiantone town, Chautauqua NY",1397,1,0.0109 
+"36013","47592","Chautauqua NY","Mina town, Chautauqua NY",1007,1,0.0079 
+"36013","52155","Chautauqua NY","North Harmony town, Chautauqua NY",2192,1,0.0172 
+"36013","58926","Chautauqua NY","Poland town, Chautauqua NY",2214,1,0.0173 
+"36013","58981","Chautauqua NY","Pomfret town, Chautauqua NY",13035,1,0.1021 
+"36013","59421","Chautauqua NY","Portland town, Chautauqua NY",4309,1,0.0338 
+"36013","61885","Chautauqua NY","Ripley town, Chautauqua NY",2323,1,0.0182 
+"36013","66916","Chautauqua NY","Sheridan town, Chautauqua NY",2564,1,0.0201 
+"36013","66960","Chautauqua NY","Sherman town, Chautauqua NY",1622,1,0.0127 
+"36013","71476","Chautauqua NY","Stockton town, Chautauqua NY",2044,1,0.016 
+"36013","77530","Chautauqua NY","Villenova town, Chautauqua NY",1057,1,0.0083 
+"36013","79950","Chautauqua NY","Westfield town, Chautauqua NY",4553,1,0.0357 
+"36015","02781","Chemung NY","Ashland town, Chemung NY",1510,1,0.0179 
+"36015","04132","Chemung NY","Baldwin town, Chemung NY",812,1,0.0096 
+"36015","06475","Chemung NY","Big Flats town, Chemung NY",7791,1,0.0926 
+"36015","12947","Chemung NY","Catlin town, Chemung NY",2541,1,0.0302 
+"36015","15077","Chemung NY","Chemung town, Chemung NY",2358,1,0.028 
+"36015","24229","Chemung NY","Elmira city, Chemung NY",26523,1,0.3152 
+"36015","24240","Chemung NY","Elmira town, Chemung NY",6848,1,0.0814 
+"36015","24636","Chemung NY","Erin town, Chemung NY",1806,1,0.0215 
+"36015","35705","Chemung NY","Horseheads town, Chemung NY",19374,1,0.2302 
+"36015","69617","Chemung NY","Southport town, Chemung NY",9691,1,0.1152 
+"36015","76892","Chemung NY","Van Etten town, Chemung NY",1539,1,0.0183 
+"36015","77310","Chemung NY","Veteran town, Chemung NY",3355,1,0.0399 
+"36017","00353","Chenango NY","Afton town, Chenango NY",2769,1,0.0586 
+"36017","04044","Chenango NY","Bainbridge town, Chenango NY",3060,1,0.0648 
+"36017","17486","Chenango NY","Columbus town, Chenango NY",898,1,0.019 
+"36017","18619","Chenango NY","Coventry town, Chenango NY",1516,1,0.0321 
+"36017","28739","Chenango NY","German town, Chenango NY",308,1,0.0065 
+"36017","30422","Chenango NY","Greene town, Chenango NY",5296,1,0.1122 
+"36017","31148","Chenango NY","Guilford town, Chenango NY",2741,1,0.058 
+"36017","42411","Chenango NY","Lincklaen town, Chenango NY",361,1,0.0076 
+"36017","44127","Chenango NY","McDonough town, Chenango NY",797,1,0.0169 
+"36017","49957","Chenango NY","New Berlin town, Chenango NY",2525,1,0.0535 
+"36017","53297","Chenango NY","North Norwich town, Chenango NY",1664,1,0.0352 
+"36017","53979","Chenango NY","Norwich city, Chenango NY",7051,1,0.1493 
+"36017","53990","Chenango NY","Norwich town, Chenango NY",3599,1,0.0762 
+"36017","55717","Chenango NY","Otselic town, Chenango NY",859,1,0.0182 
+"36017","55959","Chenango NY","Oxford town, Chenango NY",3614,1,0.0765 
+"36017","57507","Chenango NY","Pharsalia town, Chenango NY",516,1,0.0109 
+"36017","58288","Chenango NY","Pitcher town, Chenango NY",667,1,0.0141 
+"36017","58772","Chenango NY","Plymouth town, Chenango NY",1619,1,0.0343 
+"36017","59817","Chenango NY","Preston town, Chenango NY",895,1,0.019 
+"36017","66894","Chenango NY","Sherburne town, Chenango NY",3973,1,0.0841 
+"36017","68055","Chenango NY","Smithville town, Chenango NY",1255,1,0.0266 
+"36017","68110","Chenango NY","Smyrna town, Chenango NY",1237,1,0.0262 
+"36019","01583","Clinton NY","Altona town, Clinton NY",2666,1,0.0334 
+"36019","03221","Clinton NY","Au Sable town, Clinton NY",3183,1,0.0399 
+"36019","05485","Clinton NY","Beekmantown town, Clinton NY",5508,1,0.069 
+"36019","06761","Clinton NY","Black Brook town, Clinton NY",1453,1,0.0182 
+"36019","13750","Clinton NY","Champlain town, Clinton NY",5745,1,0.072 
+"36019","14113","Clinton NY","Chazy town, Clinton NY",4096,1,0.0513 
+"36019","16397","Clinton NY","Clinton town, Clinton NY",652,1,0.0082 
+"36019","19653","Clinton NY","Dannemora town, Clinton NY",4037,1,0.0506 
+"36019","23921","Clinton NY","Ellenburg town, Clinton NY",1842,1,0.0231 
+"36019","48252","Clinton NY","Mooers town, Clinton NY",3467,1,0.0434 
+"36019","57375","Clinton NY","Peru town, Clinton NY",6772,1,0.0848 
+"36019","58574","Clinton NY","Plattsburgh city, Clinton NY",19841,1,0.2485 
+"36019","58585","Clinton NY","Plattsburgh town, Clinton NY",11886,1,0.1489 
+"36019","65211","Clinton NY","Saranac town, Clinton NY",3852,1,0.0482 
+"36019","65717","Clinton NY","Schuyler Falls town, Clinton NY",4843,1,0.0607 
+"36021","02099","Columbia NY","Ancram town, Columbia NY",1440,1,0.0234 
+"36021","03287","Columbia NY","Austerlitz town, Columbia NY",1625,1,0.0264 
+"36021","12056","Columbia NY","Canaan town, Columbia NY",1570,1,0.0255 
+"36021","14014","Columbia NY","Chatham town, Columbia NY",4104,1,0.0667 
+"36021","16045","Columbia NY","Claverack town, Columbia NY",6058,1,0.0984 
+"36021","16177","Columbia NY","Clermont town, Columbia NY",2058,1,0.0334 
+"36021","18102","Columbia NY","Copake town, Columbia NY",3346,1,0.0543 
+"36021","28068","Columbia NY","Gallatin town, Columbia NY",1628,1,0.0264 
+"36021","28772","Columbia NY","Germantown town, Columbia NY",1936,1,0.0314 
+"36021","28871","Columbia NY","Ghent town, Columbia NY",5303,1,0.0861 
+"36021","30565","Columbia NY","Greenport town, Columbia NY",4473,1,0.0726 
+"36021","34748","Columbia NY","Hillsdale town, Columbia NY",1831,1,0.0297 
+"36021","35969","Columbia NY","Hudson city, Columbia NY",5894,1,0.0957 
+"36021","39573","Columbia NY","Kinderhook town, Columbia NY",8330,1,0.1353 
+"36021","42917","Columbia NY","Livingston town, Columbia NY",3628,1,0.0589 
+"36021","50452","Columbia NY","New Lebanon town, Columbia NY",2514,1,0.0408 
+"36021","71443","Columbia NY","Stockport town, Columbia NY",2670,1,0.0434 
+"36021","71850","Columbia NY","Stuyvesant town, Columbia NY",1931,1,0.0314 
+"36021","73077","Columbia NY","Taghkanic town, Columbia NY",1231,1,0.02 
+"36023","15748","Cortland NY","Cincinnatus town, Cortland NY",902,1,0.0193 
+"36023","18388","Cortland NY","Cortland city, Cortland NY",17556,1,0.3751 
+"36023","18421","Cortland NY","Cortlandville town, Cortland NY",8409,1,0.1796 
+"36023","19499","Cortland NY","Cuyler town, Cortland NY",908,1,0.0194 
+"36023","27496","Cortland NY","Freetown town, Cortland NY",767,1,0.0164 
+"36023","32160","Cortland NY","Harford town, Cortland NY",876,1,0.0187 
+"36023","35287","Cortland NY","Homer town, Cortland NY",6293,1,0.1344 
+"36023","41300","Cortland NY","Lapeer town, Cortland NY",795,1,0.017 
+"36023","45403","Cortland NY","Marathon town, Cortland NY",2038,1,0.0435 
+"36023","59773","Cortland NY","Preble town, Cortland NY",1357,1,0.029 
+"36023","65915","Cortland NY","Scott town, Cortland NY",1077,1,0.023 
+"36023","68264","Cortland NY","Solon town, Cortland NY",1063,1,0.0227 
+"36023","73220","Cortland NY","Taylor town, Cortland NY",452,1,0.0097 
+"36023","75550","Cortland NY","Truxton town, Cortland NY",997,1,0.0213 
+"36023","77596","Cortland NY","Virgil town, Cortland NY",2425,1,0.0518 
+"36023","81963","Cortland NY","Willet town, Cortland NY",894,1,0.0191 
+"36025","02132","Delaware NY","Andes town, Delaware NY",1114,1,0.0251 
+"36025","07597","Delaware NY","Bovina town, Delaware NY",658,1,0.0149 
+"36025","16793","Delaware NY","Colchester town, Delaware NY",1782,1,0.0402 
+"36025","19763","Delaware NY","Davenport town, Delaware NY",2955,1,0.0667 
+"36025","20137","Delaware NY","Delhi town, Delaware NY",4795,1,0.1082 
+"36025","20357","Delaware NY","Deposit town, Delaware NY",1427,1,0.0322 
+"36025","27232","Delaware NY","Franklin town, Delaware NY",2288,1,0.0516 
+"36025","31698","Delaware NY","Hamden town, Delaware NY",1137,1,0.0257 
+"36025","31951","Delaware NY","Hancock town, Delaware NY",2764,1,0.0624 
+"36025","32281","Delaware NY","Harpersfield town, Delaware NY",1442,1,0.0325 
+"36025","40068","Delaware NY","Kortright town, Delaware NY",1544,1,0.0348 
+"36025","45964","Delaware NY","Masonville town, Delaware NY",1239,1,0.028 
+"36025","46624","Delaware NY","Meredith town, Delaware NY",1484,1,0.0335 
+"36025","47031","Delaware NY","Middletown town, Delaware NY",3336,1,0.0753 
+"36025","64001","Delaware NY","Roxbury town, Delaware NY",2247,1,0.0507 
+"36025","67345","Delaware NY","Sidney town, Delaware NY",5536,1,0.1249 
+"36025","70629","Delaware NY","Stamford town, Delaware NY",2000,1,0.0451 
+"36025","74111","Delaware NY","Tompkins town, Delaware NY",1290,1,0.0291 
+"36025","78047","Delaware NY","Walton town, Delaware NY",5270,1,0.1189 
+"36027","01693","Dutchess NY","Amenia town, Dutchess NY",3769,1,0.0127 
+"36027","05100","Dutchess NY","Beacon city, Dutchess NY",13769,1,0.0465 
+"36027","05452","Dutchess NY","Beekman town, Dutchess NY",14172,1,0.0479 
+"36027","16408","Dutchess NY","Clinton town, Dutchess NY",4037,1,0.0136 
+"36027","20819","Dutchess NY","Dover town, Dutchess NY",8415,1,0.0284 
+"36027","21996","Dutchess NY","East Fishkill town, Dutchess NY",29707,1,0.1004 
+"36027","25978","Dutchess NY","Fishkill town, Dutchess NY",24226,1,0.0819 
+"36027","37209","Dutchess NY","Hyde Park town, Dutchess NY",21021,1,0.071 
+"36027","40299","Dutchess NY","LaGrange town, Dutchess NY",15975,1,0.054 
+"36027","47207","Dutchess NY","Milan town, Dutchess NY",2245,1,0.0076 
+"36027","51891","Dutchess NY","North East town, Dutchess NY",2971,1,0.01 
+"36027","56825","Dutchess NY","Pawling town, Dutchess NY",8012,1,0.0271 
+"36027","58156","Dutchess NY","Pine Plains town, Dutchess NY",2218,1,0.0075 
+"36027","58695","Dutchess NY","Pleasant Valley town, Dutchess NY",9799,1,0.0331 
+"36027","59641","Dutchess NY","Poughkeepsie city, Dutchess NY",31577,1,0.1067 
+"36027","59652","Dutchess NY","Poughkeepsie town, Dutchess NY",45471,1,0.1537 
+"36027","60905","Dutchess NY","Red Hook town, Dutchess NY",9953,1,0.0336 
+"36027","61357","Dutchess NY","Rhinebeck town, Dutchess NY",7596,1,0.0257 
+"36027","70662","Dutchess NY","Stanford town, Dutchess NY",3682,1,0.0124 
+"36027","76166","Dutchess NY","Union Vale town, Dutchess NY",4563,1,0.0154 
+"36027","78157","Dutchess NY","Wappinger town, Dutchess NY",28216,1,0.0954 
+"36027","78388","Dutchess NY","Washington town, Dutchess NY",4517,1,0.0153 
+"36029","00000","Erie NY","[undefined MCD], Erie NY",0,,0 
+"36029","01099","Erie NY","Alden town, Erie NY",9706,1,0.0102 
+"36029","02000","Erie NY","Amherst town, Erie NY",129595,1,0.1358 
+"36029","03199","Erie NY","Aurora town, Erie NY",13943,1,0.0146 
+"36029","07454","Erie NY","Boston town, Erie NY",7948,1,0.0083 
+"36029","07894","Erie NY","Brant town, Erie NY",1912,1,0.002 
+"36029","11000","Erie NY","Buffalo city, Erie NY",278349,1,0.2917 
+"36029","13035","Erie NY","Cattaraugus Reservation, Erie NY",2135,1,0.0022 
+"36029","15011","Erie NY","Cheektowaga town, Erie NY",89877,1,0.0942 
+"36029","15825","Erie NY","Clarence town, Erie NY",32950,1,0.0345 
+"36029","16870","Erie NY","Colden town, Erie NY",3121,1,0.0033 
+"36029","17200","Erie NY","Collins town, Erie NY",5894,1,0.0062 
+"36029","17585","Erie NY","Concord town, Erie NY",8316,1,0.0087 
+"36029","23415","Erie NY","Eden town, Erie NY",7573,1,0.0079 
+"36029","24130","Erie NY","Elma town, Erie NY",11721,1,0.0123 
+"36029","24801","Erie NY","Evans town, Erie NY",15308,1,0.016 
+"36029","29828","Erie NY","Grand Island town, Erie NY",21389,1,0.0224 
+"36029","31654","Erie NY","Hamburg town, Erie NY",60085,1,0.063 
+"36029","35122","Erie NY","Holland town, Erie NY",3281,1,0.0034 
+"36029","40189","Erie NY","Lackawanna city, Erie NY",19949,1,0.0209 
+"36029","41146","Erie NY","Lancaster town, Erie NY",45106,1,0.0473 
+"36029","45601","Erie NY","Marilla town, Erie NY",5189,1,0.0054 
+"36029","50716","Erie NY","Newstead town, Erie NY",8689,1,0.0091 
+"36029","51803","Erie NY","North Collins town, Erie NY",3504,1,0.0037 
+"36029","55277","Erie NY","Orchard Park town, Erie NY",29686,1,0.0311 
+"36029","65277","Erie NY","Sardinia town, Erie NY",2716,1,0.0028 
+"36029","74166","Erie NY","Tonawanda city, Erie NY",15129,1,0.0159 
+"36029","75000","Erie NY","Tonawanda town, Erie NY",72636,1,0.0761 
+"36029","75011","Erie NY","Tonawanda Reservation, Erie NY",20,1,0 
+"36029","77871","Erie NY","Wales town, Erie NY",3009,1,0.0032 
+"36029","80918","Erie NY","West Seneca town, Erie NY",45500,1,0.0477 
+"36031","15330","Essex NY","Chesterfield town, Essex NY",2476,1,0.0662 
+"36031","19246","Essex NY","Crown Point town, Essex NY",2042,1,0.0546 
+"36031","23833","Essex NY","Elizabethtown town, Essex NY",1203,1,0.0322 
+"36031","24768","Essex NY","Essex town, Essex NY",621,1,0.0166 
+"36031","38396","Essex NY","Jay town, Essex NY",2486,1,0.0665 
+"36031","39067","Essex NY","Keene town, Essex NY",1144,1,0.0306 
+"36031","42114","Essex NY","Lewis town, Essex NY",1293,1,0.0346 
+"36031","47669","Essex NY","Minerva town, Essex NY",773,1,0.0207 
+"36031","48428","Essex NY","Moriah town, Essex NY",4716,1,0.1262 
+"36031","50144","Essex NY","Newcomb town, Essex NY",418,1,0.0112 
+"36031","51935","Essex NY","North Elba town, Essex NY",7480,1,0.2001 
+"36031","53077","Essex NY","North Hudson town, Essex NY",250,1,0.0067 
+"36031","64529","Essex NY","St. Armand town, Essex NY",1446,1,0.0387 
+"36031","65629","Essex NY","Schroon town, Essex NY",1880,1,0.0503 
+"36031","73891","Essex NY","Ticonderoga town, Essex NY",4789,1,0.1281 
+"36031","80775","Essex NY","Westport town, Essex NY",1320,1,0.0353 
+"36031","82271","Essex NY","Willsboro town, Essex NY",1905,1,0.051 
+"36031","82315","Essex NY","Wilmington town, Essex NY",1139,1,0.0305 
+"36033","04319","Franklin NY","Bangor town, Franklin NY",2231,1,0.0469 
+"36033","05716","Franklin NY","Bellmont town, Franklin NY",1327,1,0.0279 
+"36033","07278","Franklin NY","Bombay town, Franklin NY",1254,1,0.0264 
+"36033","07839","Franklin NY","Brandon town, Franklin NY",628,1,0.0132 
+"36033","08213","Franklin NY","Brighton town, Franklin NY",1174,1,0.0247 
+"36033","11165","Franklin NY","Burke town, Franklin NY",1421,1,0.0299 
+"36033","13992","Franklin NY","Chateaugay town, Franklin NY",1743,1,0.0367 
+"36033","17871","Franklin NY","Constable town, Franklin NY",1486,1,0.0312 
+"36033","20610","Franklin NY","Dickinson town, Franklin NY",965,1,0.0203 
+"36033","20973","Franklin NY","Duane town, Franklin NY",180,1,0.0038 
+"36033","26737","Franklin NY","Fort Covington town, Franklin NY",1531,1,0.0322 
+"36033","27243","Franklin NY","Franklin town, Franklin NY",1150,1,0.0242 
+"36033","32314","Franklin NY","Harrietstown town, Franklin NY",5254,1,0.1105 
+"36033","44721","Franklin NY","Malone town, Franklin NY",12433,1,0.2614 
+"36033","47933","Franklin NY","Moira town, Franklin NY",2916,1,0.0613 
+"36033","64727","Franklin NY","St. Regis Mohawk Reservation, Franklin NY",3663,1,0.077 
+"36033","65178","Franklin NY","Santa Clara town, Franklin NY",332,1,0.007 
+"36033","75676","Franklin NY","Tupper Lake town, Franklin NY",5147,1,0.1082 
+"36033","78795","Franklin NY","Waverly town, Franklin NY",963,1,0.0203 
+"36033","81215","Franklin NY","Westville town, Franklin NY",1757,1,0.0369 
+"36035","06882","Fulton NY","Bleecker town, Fulton NY",545,1,0.0102 
+"36035","08433","Fulton NY","Broadalbin town, Fulton NY",5145,1,0.0965 
+"36035","12573","Fulton NY","Caroga town, Fulton NY",1264,1,0.0237 
+"36035","24603","Fulton NY","Ephratah town, Fulton NY",1677,1,0.0314 
+"36035","29443","Fulton NY","Gloversville city, Fulton NY",15131,1,0.2838 
+"36035","38781","Fulton NY","Johnstown city, Fulton NY",8204,1,0.1539 
+"36035","38792","Fulton NY","Johnstown town, Fulton NY",6867,1,0.1288 
+"36035","46217","Fulton NY","Mayfield town, Fulton NY",6146,1,0.1153 
+"36035","51407","Fulton NY","Northampton town, Fulton NY",2472,1,0.0464 
+"36035","55101","Fulton NY","Oppenheim town, Fulton NY",1751,1,0.0328 
+"36035","57353","Fulton NY","Perth town, Fulton NY",3584,1,0.0672 
+"36035","71784","Fulton NY","Stratford town, Fulton NY",538,1,0.0101 
+"36037","00474","Genesee NY","Alabama town, Genesee NY",1602,1,0.0274 
+"36037","01165","Genesee NY","Alexander town, Genesee NY",2491,1,0.0427 
+"36037","04715","Genesee NY","Batavia city, Genesee NY",15600,1,0.2672 
+"36037","04726","Genesee NY","Batavia town, Genesee NY",6293,1,0.1078 
+"36037","06057","Genesee NY","Bergen town, Genesee NY",3120,1,0.0534 
+"36037","06266","Genesee NY","Bethany town, Genesee NY",1780,1,0.0305 
+"36037","11572","Genesee NY","Byron town, Genesee NY",2302,1,0.0394 
+"36037","19719","Genesee NY","Darien town, Genesee NY",3010,1,0.0516 
+"36037","23756","Genesee NY","Elba town, Genesee NY",2164,1,0.0371 
+"36037","42037","Genesee NY","Le Roy town, Genesee NY",7662,1,0.1312 
+"36037","54166","Genesee NY","Oakfield town, Genesee NY",3145,1,0.0539 
+"36037","56792","Genesee NY","Pavilion town, Genesee NY",2290,1,0.0392 
+"36037","57078","Genesee NY","Pembroke town, Genesee NY",4264,1,0.073 
+"36037","70607","Genesee NY","Stafford town, Genesee NY",2424,1,0.0415 
+"36037","75011","Genesee NY","Tonawanda Reservation, Genesee NY",241,1,0.0041 
+"36039","02803","Greene NY","Ashland town, Greene NY",682,1,0.0142 
+"36039","02913","Greene NY","Athens town, Greene NY",3916,1,0.0817 
+"36039","11649","Greene NY","Cairo town, Greene NY",6644,1,0.1386 
+"36039","13013","Greene NY","Catskill town, Greene NY",11298,1,0.2357 
+"36039","18729","Greene NY","Coxsackie town, Greene NY",8382,1,0.1749 
+"36039","21204","Greene NY","Durham town, Greene NY",2627,1,0.0548 
+"36039","30620","Greene NY","Greenville town, Greene NY",3741,1,0.078 
+"36039","31379","Greene NY","Halcott town, Greene NY",249,1,0.0052 
+"36039","36178","Greene NY","Hunter town, Greene NY",3035,1,0.0633 
+"36039","38638","Greene NY","Jewett town, Greene NY",879,1,0.0183 
+"36039","42202","Greene NY","Lexington town, Greene NY",770,1,0.0161 
+"36039","49935","Greene NY","New Baltimore town, Greene NY",3226,1,0.0673 
+"36039","59751","Greene NY","Prattsville town, Greene NY",774,1,0.0161 
+"36039","82480","Greene NY","Windham town, Greene NY",1708,1,0.0356 
+"36041","02572","Hamilton NY","Arietta town, Hamilton NY",292,1,0.0572 
+"36041","05958","Hamilton NY","Benson town, Hamilton NY",221,1,0.0433 
+"36041","35496","Hamilton NY","Hope town, Hamilton NY",413,1,0.0809 
+"36041","37374","Hamilton NY","Indian Lake town, Hamilton NY",1363,1,0.2669 
+"36041","37495","Hamilton NY","Inlet town, Hamilton NY",355,1,0.0695 
+"36041","40794","Hamilton NY","Lake Pleasant town, Hamilton NY",897,1,0.1756 
+"36041","43412","Hamilton NY","Long Lake town, Hamilton NY",791,1,0.1549 
+"36041","48340","Hamilton NY","Morehouse town, Hamilton NY",92,1,0.018 
+"36041","79059","Hamilton NY","Wells town, Hamilton NY",683,1,0.1337 
+"36043","17431","Herkimer NY","Columbia town, Herkimer NY",1569,1,0.0261 
+"36043","19686","Herkimer NY","Danube town, Herkimer NY",953,1,0.0158 
+"36043","24933","Herkimer NY","Fairfield town, Herkimer NY",1475,1,0.0245 
+"36043","27199","Herkimer NY","Frankfort town, Herkimer NY",7011,1,0.1166 
+"36043","28750","Herkimer NY","German Flatts town, Herkimer NY",12263,1,0.2039 
+"36043","34132","Herkimer NY","Herkimer town, Herkimer NY",9566,1,0.1591 
+"36043","42664","Herkimer NY","Litchfield town, Herkimer NY",1444,1,0.024 
+"36043","42741","Herkimer NY","Little Falls city, Herkimer NY",4605,1,0.0766 
+"36043","42752","Herkimer NY","Little Falls town, Herkimer NY",1497,1,0.0249 
+"36043","44974","Herkimer NY","Manheim town, Herkimer NY",3082,1,0.0512 
+"36043","50584","Herkimer NY","Newport town, Herkimer NY",2140,1,0.0356 
+"36043","53968","Herkimer NY","Norway town, Herkimer NY",740,1,0.0123 
+"36043","54507","Herkimer NY","Ohio town, Herkimer NY",962,1,0.016 
+"36043","64254","Herkimer NY","Russia town, Herkimer NY",2269,1,0.0377 
+"36043","64837","Herkimer NY","Salisbury town, Herkimer NY",1830,1,0.0304 
+"36043","65695","Herkimer NY","Schuyler town, Herkimer NY",3296,1,0.0548 
+"36043","70794","Herkimer NY","Stark town, Herkimer NY",714,1,0.0119 
+"36043","78278","Herkimer NY","Warren town, Herkimer NY",1029,1,0.0171 
+"36043","78927","Herkimer NY","Webb town, Herkimer NY",1797,1,0.0299 
+"36043","82568","Herkimer NY","Winfield town, Herkimer NY",1897,1,0.0315 
+"36045","00000","Jefferson NY","[undefined MCD], Jefferson NY",0,,0 
+"36045","00210","Jefferson NY","Adams town, Jefferson NY",4973,1,0.0426 
+"36045","01176","Jefferson NY","Alexandria town, Jefferson NY",3741,1,0.0321 
+"36045","02297","Jefferson NY","Antwerp town, Jefferson NY",1683,1,0.0144 
+"36045","10242","Jefferson NY","Brownville town, Jefferson NY",5842,1,0.0501 
+"36045","12364","Jefferson NY","Cape Vincent town, Jefferson NY",2765,1,0.0237 
+"36045","13717","Jefferson NY","Champion town, Jefferson NY",4562,1,0.0391 
+"36045","16100","Jefferson NY","Clayton town, Jefferson NY",4770,1,0.0409 
+"36045","20214","Jefferson NY","3604520214",0,,0 
+"36045","20555","Jefferson NY","3604520555",0,,0 
+"36045","24086","Jefferson NY","Ellisburg town, Jefferson NY",3352,1,0.0287 
+"36045","34055","Jefferson NY","Henderson town, Jefferson NY",1438,1,0.0123 
+"36045","35782","Jefferson NY","Hounsfield town, Jefferson NY",3281,1,0.0281 
+"36045","42015","Jefferson NY","Le Ray town, Jefferson NY",25574,1,0.2191 
+"36045","43544","Jefferson NY","Lorraine town, Jefferson NY",924,1,0.0079 
+"36045","43863","Jefferson NY","Lyme town, Jefferson NY",2299,1,0.0197 
+"36045","55398","Jefferson NY","Orleans town, Jefferson NY",2788,1,0.0239 
+"36045","56209","Jefferson NY","Pamelia town, Jefferson NY",3343,1,0.0286 
+"36045","57562","Jefferson NY","Philadelphia town, Jefferson NY",1975,1,0.0169 
+"36045","63341","Jefferson NY","Rodman town, Jefferson NY",1197,1,0.0103 
+"36045","64265","Jefferson NY","Rutland town, Jefferson NY",3038,1,0.026 
+"36045","73528","Jefferson NY","Theresa town, Jefferson NY",2648,1,0.0227 
+"36045","78608","Jefferson NY","Watertown city, Jefferson NY",24685,1,0.2115 
+"36045","78619","Jefferson NY","Watertown town, Jefferson NY",5913,1,0.0507 
+"36045","82348","Jefferson NY","Wilna town, Jefferson NY",5732,1,0.0491 
+"36045","83162","Jefferson NY","Worth town, Jefferson NY",198,1,0.0017 
+"36047","10022","Kings NY","Brooklyn borough, Kings NY",2736074,1,1 
+"36049","19081","Lewis NY","Croghan town, Lewis NY",3197,1,0.1203 
+"36049","20214","Lewis NY","Denmark town, Lewis NY",2626,1,0.0988 
+"36049","20555","Lewis NY","Diana town, Lewis NY",1610,1,0.0606 
+"36049","30796","Lewis NY","Greig town, Lewis NY",1179,1,0.0444 
+"36049","32358","Lewis NY","Harrisburg town, Lewis NY",480,1,0.0181 
+"36049","42125","Lewis NY","Lewis town, Lewis NY",844,1,0.0318 
+"36049","42213","Lewis NY","Leyden town, Lewis NY",1572,1,0.0591 
+"36049","43731","Lewis NY","Lowville town, Lewis NY",4888,1,0.1839 
+"36049","43995","Lewis NY","Lyonsdale town, Lewis NY",1170,1,0.044 
+"36049","45854","Lewis NY","Martinsburg town, Lewis NY",1316,1,0.0495 
+"36049","48032","Lewis NY","Montague town, Lewis NY",97,1,0.0036 
+"36049","50001","Lewis NY","New Bremen town, Lewis NY",2785,1,0.1048 
+"36049","55497","Lewis NY","Osceola town, Lewis NY",243,1,0.0091 
+"36049","57925","Lewis NY","Pinckney town, Lewis NY",313,1,0.0118 
+"36049","75693","Lewis NY","Turin town, Lewis NY",768,1,0.0289 
+"36049","78729","Lewis NY","Watson town, Lewis NY",1802,1,0.0678 
+"36049","81094","Lewis NY","West Turin town, Lewis NY",1692,1,0.0637 
+"36051","03364","Livingston NY","Avon town, Livingston NY",6939,1,0.1122 
+"36051","11715","Livingston NY","Caledonia town, Livingston NY",4154,1,0.0672 
+"36051","17618","Livingston NY","Conesus town, Livingston NY",2320,1,0.0375 
+"36051","28629","Livingston NY","Geneseo town, Livingston NY",10234,1,0.1655 
+"36051","31016","Livingston NY","Groveland town, Livingston NY",2316,1,0.0375 
+"36051","41883","Livingston NY","Leicester town, Livingston NY",2082,1,0.0337 
+"36051","42334","Livingston NY","Lima town, Livingston NY",4154,1,0.0672 
+"36051","42961","Livingston NY","Livonia town, Livingston NY",7497,1,0.1212 
+"36051","48956","Livingston NY","Mount Morris town, Livingston NY",4435,1,0.0717 
+"36051","51869","Livingston NY","North Dansville town, Livingston NY",5321,1,0.0861 
+"36051","54089","Livingston NY","Nunda town, Livingston NY",2688,1,0.0435 
+"36051","55508","Livingston NY","Ossian town, Livingston NY",724,1,0.0117 
+"36051","59179","Livingston NY","Portage town, Livingston NY",763,1,0.0123 
+"36051","70101","Livingston NY","Sparta town, Livingston NY",1583,1,0.0256 
+"36051","70475","Livingston NY","Springwater town, Livingston NY",2286,1,0.037 
+"36051","81006","Livingston NY","West Sparta town, Livingston NY",1156,1,0.0187 
+"36051","84022","Livingston NY","York town, Livingston NY",3182,1,0.0515 
+"36053","08587","Madison NY","Brookfield town, Madison NY",2247,1,0.033 
+"36053","13156","Madison NY","Cazenovia town, Madison NY",6740,1,0.0991 
+"36053","20401","Madison NY","DeRuyter town, Madison NY",1276,1,0.0188 
+"36053","23305","Madison NY","Eaton town, Madison NY",4284,1,0.063 
+"36053","25593","Madison NY","Fenner town, Madison NY",1668,1,0.0245 
+"36053","28695","Madison NY","Georgetown town, Madison NY",648,1,0.0095 
+"36053","31720","Madison NY","Hamilton town, Madison NY",6379,1,0.0938 
+"36053","41674","Madison NY","Lebanon town, Madison NY",1326,1,0.0195 
+"36053","41905","Madison NY","Lenox town, Madison NY",8768,1,0.1289 
+"36053","42422","Madison NY","Lincoln town, Madison NY",1802,1,0.0265 
+"36053","44435","Madison NY","Madison town, Madison NY",2766,1,0.0407 
+"36053","49770","Madison NY","Nelson town, Madison NY",1890,1,0.0278 
+"36053","54837","Madison NY","Oneida city, Madison NY",10329,1,0.1519 
+"36053","67785","Madison NY","Smithfield town, Madison NY",1127,1,0.0166 
+"36053","71399","Madison NY","Stockbridge town, Madison NY",1972,1,0.029 
+"36053","71993","Madison NY","Sullivan town, Madison NY",14794,1,0.2175 
+"36055","00000","Monroe NY","[undefined MCD], Monroe NY",0,,0 
+"36055","08246","Monroe NY","Brighton town, Monroe NY",37137,1,0.0489 
+"36055","15462","Monroe NY","Chili town, Monroe NY",29123,1,0.0383 
+"36055","15957","Monroe NY","Clarkson town, Monroe NY",6904,1,0.0091 
+"36055","22870","Monroe NY","East Rochester town, Monroe NY",6334,1,0.0083 
+"36055","28442","Monroe NY","Gates town, Monroe NY",29167,1,0.0384 
+"36055","30290","Monroe NY","Greece town, Monroe NY",96926,1,0.1276 
+"36055","31797","Monroe NY","Hamlin town, Monroe NY",8725,1,0.0115 
+"36055","34099","Monroe NY","Henrietta town, Monroe NY",47096,1,0.062 
+"36055","37726","Monroe NY","Irondequoit town, Monroe NY",51043,1,0.0672 
+"36055","46558","Monroe NY","Mendon town, Monroe NY",9095,1,0.012 
+"36055","54474","Monroe NY","Ogden town, Monroe NY",20270,1,0.0267 
+"36055","56561","Monroe NY","Parma town, Monroe NY",16217,1,0.0214 
+"36055","57144","Monroe NY","Penfield town, Monroe NY",39438,1,0.0519 
+"36055","57221","Monroe NY","Perinton town, Monroe NY",47479,1,0.0625 
+"36055","58365","Monroe NY","Pittsford town, Monroe NY",30617,1,0.0403 
+"36055","61808","Monroe NY","Riga town, Monroe NY",5586,1,0.0074 
+"36055","63000","Monroe NY","Rochester city, Monroe NY",211328,1,0.2783 
+"36055","64144","Monroe NY","Rush town, Monroe NY",3490,1,0.0046 
+"36055","72455","Monroe NY","Sweden town, Monroe NY",13244,1,0.0174 
+"36055","78971","Monroe NY","Webster town, Monroe NY",45327,1,0.0597 
+"36055","81402","Monroe NY","Wheatland town, Monroe NY",4897,1,0.0064 
+"36057","02066","Montgomery NY","Amsterdam city, Montgomery NY",18219,1,0.3678 
+"36057","02077","Montgomery NY","Amsterdam town, Montgomery NY",5557,1,0.1122 
+"36057","12122","Montgomery NY","Canajoharie town, Montgomery NY",3660,1,0.0739 
+"36057","13816","Montgomery NY","Charleston town, Montgomery NY",1355,1,0.0274 
+"36057","26308","Montgomery NY","Florida town, Montgomery NY",2667,1,0.0538 
+"36057","29047","Montgomery NY","Glen town, Montgomery NY",2536,1,0.0512 
+"36057","47614","Montgomery NY","Minden town, Montgomery NY",4166,1,0.0841 
+"36057","47834","Montgomery NY","Mohawk town, Montgomery NY",3572,1,0.0721 
+"36057","56099","Montgomery NY","Palatine town, Montgomery NY",3189,1,0.0644 
+"36057","63561","Montgomery NY","Root town, Montgomery NY",2013,1,0.0406 
+"36057","64650","Montgomery NY","St. Johnsville town, Montgomery NY",2598,1,0.0525 
+"36059","29113","Nassau NY","Glen Cove city, Nassau NY",28365,1,0.0203 
+"36059","34000","Nassau NY","Hempstead town, Nassau NY",793409,1,0.5684 
+"36059","43335","Nassau NY","Long Beach city, Nassau NY",35029,1,0.0251 
+"36059","53000","Nassau NY","North Hempstead town, Nassau NY",237639,1,0.1703 
+"36059","56000","Nassau NY","Oyster Bay town, Nassau NY",301332,1,0.2159 
+"36061","44919","New York NY","Manhattan borough, New York NY",1694251,1,1 
+"36063","00000","Niagara NY","[undefined MCD], Niagara NY",0,,0 
+"36063","11803","Niagara NY","Cambria town, Niagara NY",5743,1,0.027 
+"36063","32490","Niagara NY","Hartland town, Niagara NY",3874,1,0.0182 
+"36063","42158","Niagara NY","Lewiston town, Niagara NY",15944,1,0.075 
+"36063","43082","Niagara NY","Lockport city, Niagara NY",20876,1,0.0982 
+"36063","43093","Niagara NY","Lockport town, Niagara NY",20563,1,0.0967 
+"36063","50232","Niagara NY","Newfane town, Niagara NY",9304,1,0.0437 
+"36063","51033","Niagara NY","Niagara town, Niagara NY",7903,1,0.0372 
+"36063","51055","Niagara NY","Niagara Falls city, Niagara NY",48671,1,0.2289 
+"36063","53682","Niagara NY","North Tonawanda city, Niagara NY",30496,1,0.1434 
+"36063","57111","Niagara NY","Pendleton town, Niagara NY",7035,1,0.0331 
+"36063","59267","Niagara NY","Porter town, Niagara NY",6513,1,0.0306 
+"36063","64034","Niagara NY","Royalton town, Niagara NY",7517,1,0.0353 
+"36063","68330","Niagara NY","Somerset town, Niagara NY",2597,1,0.0122 
+"36063","75011","Niagara NY","Tonawanda Reservation, Niagara NY",0,,0 
+"36063","75748","Niagara NY","Tuscarora Nation Reservation, Niagara NY",1145,1,0.0054 
+"36063","81380","Niagara NY","Wheatfield town, Niagara NY",18638,1,0.0876 
+"36063","82370","Niagara NY","Wilson town, Niagara NY",5847,1,0.0275 
+"36065","02253","Oneida NY","Annsville town, Oneida NY",2639,1,0.0114 
+"36065","03155","Oneida NY","Augusta town, Oneida NY",2021,1,0.0087 
+"36065","03309","Oneida NY","Ava town, Oneida NY",680,1,0.0029 
+"36065","07366","Oneida NY","Boonville town, Oneida NY",4518,1,0.0195 
+"36065","08180","Oneida NY","Bridgewater town, Oneida NY",1507,1,0.0065 
+"36065","11858","Oneida NY","Camden town, Oneida NY",4787,1,0.0206 
+"36065","19928","Oneida NY","Deerfield town, Oneida NY",3983,1,0.0172 
+"36065","26297","Oneida NY","Florence town, Oneida NY",1284,1,0.0055 
+"36065","26385","Oneida NY","Floyd town, Oneida NY",3733,1,0.0161 
+"36065","26627","Oneida NY","Forestport town, Oneida NY",1477,1,0.0064 
+"36065","39804","Oneida NY","Kirkland town, Oneida NY",10075,1,0.0434 
+"36065","41762","Oneida NY","Lee town, Oneida NY",6171,1,0.0266 
+"36065","45535","Oneida NY","Marcy town, Oneida NY",8777,1,0.0378 
+"36065","45755","Oneida NY","Marshall town, Oneida NY",1966,1,0.0085 
+"36065","50309","Oneida NY","New Hartford town, Oneida NY",21874,1,0.0942 
+"36065","56330","Oneida NY","Paris town, Oneida NY",4332,1,0.0187 
+"36065","61126","Oneida NY","Remsen town, Oneida NY",1761,1,0.0076 
+"36065","63418","Oneida NY","Rome city, Oneida NY",32127,1,0.1384 
+"36065","65134","Oneida NY","Sangerfield town, Oneida NY",2327,1,0.01 
+"36065","71212","Oneida NY","Steuben town, Oneida NY",1081,1,0.0047 
+"36065","75280","Oneida NY","Trenton town, Oneida NY",4297,1,0.0185 
+"36065","76540","Oneida NY","Utica city, Oneida NY",65283,1,0.2812 
+"36065","77123","Oneida NY","Vernon town, Oneida NY",8318,1,0.0358 
+"36065","77178","Oneida NY","Verona town, Oneida NY",5974,1,0.0257 
+"36065","77486","Oneida NY","Vienna town, Oneida NY",5260,1,0.0227 
+"36065","79862","Oneida NY","Western town, Oneida NY",1831,1,0.0079 
+"36065","80533","Oneida NY","Westmoreland town, Oneida NY",5924,1,0.0255 
+"36065","81754","Oneida NY","Whitestown town, Oneida NY",18118,1,0.0781 
+"36067","11913","Onondaga NY","Camillus town, Onondaga NY",25346,1,0.0532 
+"36067","15704","Onondaga NY","Cicero town, Onondaga NY",31435,1,0.066 
+"36067","16067","Onondaga NY","Clay town, Onondaga NY",60527,1,0.127 
+"36067","20478","Onondaga NY","De Witt town, Onondaga NY",26074,1,0.0547 
+"36067","23800","Onondaga NY","Elbridge town, Onondaga NY",5476,1,0.0115 
+"36067","24878","Onondaga NY","Fabius town, Onondaga NY",2006,1,0.0042 
+"36067","28519","Onondaga NY","Geddes town, Onondaga NY",17088,1,0.0359 
+"36067","40266","Onondaga NY","LaFayette town, Onondaga NY",4910,1,0.0103 
+"36067","44039","Onondaga NY","Lysander town, Onondaga NY",23074,1,0.0484 
+"36067","45029","Onondaga NY","Manlius town, Onondaga NY",33712,1,0.0707 
+"36067","45491","Onondaga NY","Marcellus town, Onondaga NY",6066,1,0.0127 
+"36067","54958","Onondaga NY","Onondaga town, Onondaga NY",22937,1,0.0481 
+"36067","54980","Onondaga NY","Onondaga Nation Reservation, Onondaga NY",831,1,0.0017 
+"36067","55651","Onondaga NY","Otisco town, Onondaga NY",2368,1,0.005 
+"36067","59036","Onondaga NY","Pompey town, Onondaga NY",7080,1,0.0149 
+"36067","64815","Onondaga NY","Salina town, Onondaga NY",33223,1,0.0697 
+"36067","67521","Onondaga NY","Skaneateles town, Onondaga NY",7112,1,0.0149 
+"36067","70057","Onondaga NY","Spafford town, Onondaga NY",1588,1,0.0033 
+"36067","73000","Onondaga NY","Syracuse city, Onondaga NY",148620,1,0.3119 
+"36067","75638","Onondaga NY","Tully town, Onondaga NY",2676,1,0.0056 
+"36067","76760","Onondaga NY","Van Buren town, Onondaga NY",14367,1,0.0302 
+"36069","08378","Ontario NY","Bristol town, Ontario NY",2284,1,0.0203 
+"36069","12100","Ontario NY","Canadice town, Ontario NY",1668,1,0.0148 
+"36069","12144","Ontario NY","Canandaigua city, Ontario NY",10576,1,0.094 
+"36069","12155","Ontario NY","Canandaigua town, Ontario NY",11109,1,0.0988 
+"36069","21699","Ontario NY","East Bloomfield town, Ontario NY",3640,1,0.0324 
+"36069","25406","Ontario NY","Farmington town, Ontario NY",14170,1,0.126 
+"36069","28640","Ontario NY","Geneva city, Ontario NY",12812,1,0.1139 
+"36069","28651","Ontario NY","Geneva town, Ontario NY",3473,1,0.0309 
+"36069","29531","Ontario NY","Gorham town, Ontario NY",4106,1,0.0365 
+"36069","35551","Ontario NY","Hopewell town, Ontario NY",3931,1,0.035 
+"36069","44864","Ontario NY","Manchester town, Ontario NY",9404,1,0.0836 
+"36069","49440","Ontario NY","Naples town, Ontario NY",2403,1,0.0214 
+"36069","57529","Ontario NY","Phelps town, Ontario NY",6637,1,0.059 
+"36069","61544","Ontario NY","Richmond town, Ontario NY",3360,1,0.0299 
+"36069","66289","Ontario NY","Seneca town, Ontario NY",2644,1,0.0235 
+"36069","68660","Ontario NY","South Bristol town, Ontario NY",1641,1,0.0146 
+"36069","77387","Ontario NY","Victor town, Ontario NY",15860,1,0.141 
+"36069","79356","Ontario NY","West Bloomfield town, Ontario NY",2740,1,0.0244 
+"36071","07003","Orange NY","Blooming Grove town, Orange NY",18811,1,0.0469 
+"36071","15308","Orange NY","Chester town, Orange NY",12646,1,0.0315 
+"36071","18300","Orange NY","Cornwall town, Orange NY",12884,1,0.0321 
+"36071","18916","Orange NY","Crawford town, Orange NY",9130,1,0.0228 
+"36071","19961","Orange NY","Deerpark town, Orange NY",7509,1,0.0187 
+"36071","29553","Orange NY","Goshen town, Orange NY",14571,1,0.0363 
+"36071","30631","Orange NY","Greenville town, Orange NY",4689,1,0.0117 
+"36071","31907","Orange NY","Hamptonburgh town, Orange NY",5489,1,0.0137 
+"36071","34550","Orange NY","Highlands town, Orange NY",12939,1,0.0322 
+"36071","47042","Orange NY","Middletown city, Orange NY",30345,1,0.0756 
+"36071","47713","Orange NY","Minisink town, Orange NY",4621,1,0.0115 
+"36071","47999","Orange NY","Monroe town, Orange NY",21387,1,0.0533 
+"36071","48153","Orange NY","Montgomery town, Orange NY",23322,1,0.0581 
+"36071","48857","Orange NY","Mount Hope town, Orange NY",6537,1,0.0163 
+"36071","50034","Orange NY","Newburgh city, Orange NY",28856,1,0.0719 
+"36071","50045","Orange NY","Newburgh town, Orange NY",31985,1,0.0797 
+"36071","50848","Orange NY","New Windsor town, Orange NY",27805,1,0.0693 
+"36071","56185","Orange NY","Palm Tree town, Orange NY",32954,1,0.0821 
+"36071","59388","Orange NY","Port Jervis city, Orange NY",8775,1,0.0219 
+"36071","75781","Orange NY","Tuxedo town, Orange NY",3811,1,0.0095 
+"36071","77992","Orange NY","Wallkill town, Orange NY",30486,1,0.076 
+"36071","78366","Orange NY","Warwick town, Orange NY",32027,1,0.0798 
+"36071","78839","Orange NY","Wawayanda town, Orange NY",7534,1,0.0188 
+"36071","82755","Orange NY","Woodbury town, Orange NY",12197,1,0.0304 
+"36073","00000","Orleans NY","[undefined MCD], Orleans NY",0,,0 
+"36073","01044","Orleans NY","Albion town, Orleans NY",7639,1,0.1894 
+"36073","04572","Orleans NY","Barre town, Orleans NY",1843,1,0.0457 
+"36073","12496","Orleans NY","Carlton town, Orleans NY",2835,1,0.0703 
+"36073","15880","Orleans NY","Clarendon town, Orleans NY",3315,1,0.0822 
+"36073","27958","Orleans NY","Gaines town, Orleans NY",3226,1,0.08 
+"36073","39188","Orleans NY","Kendall town, Orleans NY",2617,1,0.0649 
+"36073","49286","Orleans NY","Murray town, Orleans NY",4796,1,0.1189 
+"36073","61742","Orleans NY","Ridgeway town, Orleans NY",6598,1,0.1635 
+"36073","66751","Orleans NY","Shelby town, Orleans NY",4907,1,0.1216 
+"36073","83448","Orleans NY","Yates town, Orleans NY",2567,1,0.0636 
+"36075","00000","Oswego NY","[undefined MCD], Oswego NY",0,,0 
+"36075","01055","Oswego NY","Albion town, Oswego NY",2009,1,0.0171 
+"36075","01649","Oswego NY","Amboy town, Oswego NY",1245,1,0.0106 
+"36075","07674","Oswego NY","Boylston town, Oswego NY",498,1,0.0042 
+"36075","17904","Oswego NY","Constantia town, Oswego NY",4778,1,0.0407 
+"36075","27815","Oswego NY","Fulton city, Oswego NY",11389,1,0.0969 
+"36075","29729","Oswego NY","Granby town, Oswego NY",6520,1,0.0555 
+"36075","32028","Oswego NY","Hannibal town, Oswego NY",4525,1,0.0385 
+"36075","32688","Oswego NY","Hastings town, Oswego NY",9342,1,0.0795 
+"36075","46822","Oswego NY","Mexico town, Oswego NY",5259,1,0.0447 
+"36075","47691","Oswego NY","Minetto town, Oswego NY",1643,1,0.014 
+"36075","50342","Oswego NY","New Haven town, Oswego NY",2931,1,0.0249 
+"36075","55453","Oswego NY","Orwell town, Oswego NY",1077,1,0.0092 
+"36075","55574","Oswego NY","Oswego city, Oswego NY",16921,1,0.144 
+"36075","55585","Oswego NY","Oswego town, Oswego NY",7914,1,0.0673 
+"36075","56154","Oswego NY","Palermo town, Oswego NY",3470,1,0.0295 
+"36075","56352","Oswego NY","Parish town, Oswego NY",2398,1,0.0204 
+"36075","60873","Oswego NY","Redfield town, Oswego NY",476,1,0.0041 
+"36075","61533","Oswego NY","Richland town, Oswego NY",5637,1,0.048 
+"36075","65079","Oswego NY","Sandy Creek town, Oswego NY",3813,1,0.0324 
+"36075","65618","Oswego NY","Schroeppel town, Oswego NY",7969,1,0.0678 
+"36075","65992","Oswego NY","Scriba town, Oswego NY",6617,1,0.0563 
+"36075","77662","Oswego NY","Volney town, Oswego NY",5671,1,0.0483 
+"36075","80500","Oswego NY","West Monroe town, Oswego NY",4088,1,0.0348 
+"36075","82073","Oswego NY","Williamstown town, Oswego NY",1335,1,0.0114 
+"36077","11209","Otsego NY","Burlington town, Otsego NY",1045,1,0.0179 
+"36077","11528","Otsego NY","Butternuts town, Otsego NY",1665,1,0.0284 
+"36077","15253","Otsego NY","Cherry Valley town, Otsego NY",1229,1,0.021 
+"36077","19895","Otsego NY","Decatur town, Otsego NY",374,1,0.0064 
+"36077","23613","Otsego NY","Edmeston town, Otsego NY",1907,1,0.0326 
+"36077","24845","Otsego NY","Exeter town, Otsego NY",845,1,0.0144 
+"36077","32589","Otsego NY","Hartwick town, Otsego NY",1952,1,0.0334 
+"36077","41531","Otsego NY","Laurens town, Otsego NY",2311,1,0.0395 
+"36077","45920","Otsego NY","Maryland town, Otsego NY",1760,1,0.0301 
+"36077","46910","Otsego NY","Middlefield town, Otsego NY",1882,1,0.0322 
+"36077","47240","Otsego NY","Milford town, Otsego NY",2827,1,0.0483 
+"36077","48494","Otsego NY","Morris town, Otsego NY",1735,1,0.0296 
+"36077","50485","Otsego NY","New Lisbon town, Otsego NY",1084,1,0.0185 
+"36077","54881","Otsego NY","Oneonta city, Otsego NY",13079,1,0.2235 
+"36077","54892","Otsego NY","Oneonta town, Otsego NY",5065,1,0.0865 
+"36077","55629","Otsego NY","Otego town, Otsego NY",2756,1,0.0471 
+"36077","55695","Otsego NY","Otsego town, Otsego NY",3641,1,0.0622 
+"36077","58343","Otsego NY","Pittsfield town, Otsego NY",1312,1,0.0224 
+"36077","58420","Otsego NY","Plainfield town, Otsego NY",922,1,0.0158 
+"36077","61467","Otsego NY","Richfield town, Otsego NY",2065,1,0.0353 
+"36077","63638","Otsego NY","Roseboom town, Otsego NY",690,1,0.0118 
+"36077","70310","Otsego NY","Springfield town, Otsego NY",1346,1,0.023 
+"36077","76012","Otsego NY","Unadilla town, Otsego NY",4116,1,0.0703 
+"36077","79972","Otsego NY","Westford town, Otsego NY",804,1,0.0137 
+"36077","83129","Otsego NY","Worcester town, Otsego NY",2112,1,0.0361 
+"36079","12529","Putnam NY","Carmel town, Putnam NY",33576,1,0.3438 
+"36079","39331","Putnam NY","Kent town, Putnam NY",12900,1,0.1321 
+"36079","56748","Putnam NY","Patterson town, Putnam NY",11541,1,0.1182 
+"36079","57584","Putnam NY","Philipstown town, Putnam NY",9831,1,0.1007 
+"36079","60147","Putnam NY","Putnam Valley town, Putnam NY",11762,1,0.1204 
+"36079","68924","Putnam NY","Southeast town, Putnam NY",18058,1,0.1849 
+"36081","60323","Queens NY","Queens borough, Queens NY",2405464,1,1 
+"36083","06189","Rensselaer NY","Berlin town, Rensselaer NY",1808,1,0.0112 
+"36083","10275","Rensselaer NY","Brunswick town, Rensselaer NY",12581,1,0.0781 
+"36083","22117","Rensselaer NY","East Greenbush town, Rensselaer NY",16748,1,0.1039 
+"36083","29674","Rensselaer NY","Grafton town, Rensselaer NY",2051,1,0.0127 
+"36083","35463","Rensselaer NY","Hoosick town, Rensselaer NY",6711,1,0.0416 
+"36083","49517","Rensselaer NY","Nassau town, Rensselaer NY",4545,1,0.0282 
+"36083","52100","Rensselaer NY","North Greenbush town, Rensselaer NY",13292,1,0.0825 
+"36083","57441","Rensselaer NY","Petersburgh town, Rensselaer NY",1372,1,0.0085 
+"36083","58398","Rensselaer NY","Pittstown town, Rensselaer NY",5540,1,0.0344 
+"36083","58805","Rensselaer NY","Poestenkill town, Rensselaer NY",4322,1,0.0268 
+"36083","61148","Rensselaer NY","Rensselaer city, Rensselaer NY",9210,1,0.0572 
+"36083","65013","Rensselaer NY","Sand Lake town, Rensselaer NY",8348,1,0.0518 
+"36083","65486","Rensselaer NY","Schaghticoke town, Rensselaer NY",7445,1,0.0462 
+"36083","65541","Rensselaer NY","Schodack town, Rensselaer NY",12965,1,0.0805 
+"36083","71102","Rensselaer NY","Stephentown town, Rensselaer NY",2791,1,0.0173 
+"36083","75484","Rensselaer NY","Troy city, Rensselaer NY",51401,1,0.319 
+"36085","70915","Richmond NY","Staten Island borough, Richmond NY",495747,1,1 
+"36087","15968","Rockland NY","Clarkstown town, Rockland NY",86855,1,0.2567 
+"36087","32765","Rockland NY","Haverstraw town, Rockland NY",39087,1,0.1155 
+"36087","55211","Rockland NY","Orangetown town, Rockland NY",48655,1,0.1438 
+"36087","60510","Rockland NY","Ramapo town, Rockland NY",148919,1,0.4402 
+"36087","71674","Rockland NY","Stony Point town, Rockland NY",14813,1,0.0438 
+"36089","07938","St. Lawrence NY","Brasher town, St. Lawrence NY",2627,1,0.0242 
+"36089","12342","St. Lawrence NY","Canton town, St. Lawrence NY",11638,1,0.1073 
+"36089","15792","St. Lawrence NY","Clare town, St. Lawrence NY",100,1,0.0009 
+"36089","16287","St. Lawrence NY","Clifton town, St. Lawrence NY",675,1,0.0062 
+"36089","17409","St. Lawrence NY","Colton town, St. Lawrence NY",1530,1,0.0141 
+"36089","20038","St. Lawrence NY","De Kalb town, St. Lawrence NY",2375,1,0.0219 
+"36089","20335","St. Lawrence NY","De Peyster town, St. Lawrence NY",1023,1,0.0094 
+"36089","23646","St. Lawrence NY","Edwards town, St. Lawrence NY",1015,1,0.0094 
+"36089","25791","St. Lawrence NY","Fine town, St. Lawrence NY",1304,1,0.012 
+"36089","27100","St. Lawrence NY","Fowler town, St. Lawrence NY",2142,1,0.0197 
+"36089","29608","St. Lawrence NY","Gouverneur town, St. Lawrence NY",6551,1,0.0604 
+"36089","31841","St. Lawrence NY","Hammond town, St. Lawrence NY",1258,1,0.0116 
+"36089","34176","St. Lawrence NY","Hermon town, St. Lawrence NY",1074,1,0.0099 
+"36089","35595","St. Lawrence NY","Hopkinton town, St. Lawrence NY",1105,1,0.0102 
+"36089","41564","St. Lawrence NY","Lawrence town, St. Lawrence NY",1715,1,0.0158 
+"36089","42631","St. Lawrence NY","Lisbon town, St. Lawrence NY",4221,1,0.0389 
+"36089","43588","St. Lawrence NY","Louisville town, St. Lawrence NY",3050,1,0.0281 
+"36089","44391","St. Lawrence NY","Macomb town, St. Lawrence NY",912,1,0.0084 
+"36089","44490","St. Lawrence NY","Madrid town, St. Lawrence NY",1744,1,0.0161 
+"36089","46030","St. Lawrence NY","Massena town, St. Lawrence NY",12433,1,0.1146 
+"36089","48582","St. Lawrence NY","Morristown town, St. Lawrence NY",2082,1,0.0192 
+"36089","51330","St. Lawrence NY","Norfolk town, St. Lawrence NY",4453,1,0.041 
+"36089","54485","St. Lawrence NY","Ogdensburg city, St. Lawrence NY",10064,1,0.0928 
+"36089","55563","St. Lawrence NY","Oswegatchie town, St. Lawrence NY",4158,1,0.0383 
+"36089","56374","St. Lawrence NY","Parishville town, St. Lawrence NY",2038,1,0.0188 
+"36089","57716","St. Lawrence NY","Piercefield town, St. Lawrence NY",282,1,0.0026 
+"36089","57771","St. Lawrence NY","Pierrepont town, St. Lawrence NY",2523,1,0.0233 
+"36089","58266","St. Lawrence NY","Pitcairn town, St. Lawrence NY",790,1,0.0073 
+"36089","59575","St. Lawrence NY","Potsdam town, St. Lawrence NY",14901,1,0.1373 
+"36089","63858","St. Lawrence NY","Rossie town, St. Lawrence NY",799,1,0.0074 
+"36089","64221","St. Lawrence NY","Russell town, St. Lawrence NY",1872,1,0.0173 
+"36089","71410","St. Lawrence NY","Stockholm town, St. Lawrence NY",3816,1,0.0352 
+"36089","77739","St. Lawrence NY","Waddington town, St. Lawrence NY",2235,1,0.0206 
+"36091","04220","Saratoga NY","Ballston town, Saratoga NY",11831,1,0.0502 
+"36091","13926","Saratoga NY","Charlton town, Saratoga NY",4328,1,0.0184 
+"36091","16353","Saratoga NY","Clifton Park town, Saratoga NY",38029,1,0.1615 
+"36091","18223","Saratoga NY","Corinth town, Saratoga NY",6500,1,0.0276 
+"36091","19807","Saratoga NY","Day town, Saratoga NY",819,1,0.0035 
+"36091","23591","Saratoga NY","Edinburg town, Saratoga NY",1333,1,0.0057 
+"36091","28112","Saratoga NY","Galway town, Saratoga NY",3525,1,0.015 
+"36091","30444","Saratoga NY","Greenfield town, Saratoga NY",8004,1,0.034 
+"36091","31269","Saratoga NY","Hadley town, Saratoga NY",1976,1,0.0084 
+"36091","31489","Saratoga NY","Halfmoon town, Saratoga NY",25662,1,0.109 
+"36091","44743","Saratoga NY","Malta town, Saratoga NY",17130,1,0.0727 
+"36091","46360","Saratoga NY","Mechanicville city, Saratoga NY",5163,1,0.0219 
+"36091","47537","Saratoga NY","Milton town, Saratoga NY",18800,1,0.0798 
+"36091","48318","Saratoga NY","Moreau town, Saratoga NY",16202,1,0.0688 
+"36091","53737","Saratoga NY","Northumberland town, Saratoga NY",5242,1,0.0223 
+"36091","59949","Saratoga NY","Providence town, Saratoga NY",2075,1,0.0088 
+"36091","60356","Saratoga NY","3609160356",0,,0 
+"36091","65244","Saratoga NY","Saratoga town, Saratoga NY",5808,1,0.0247 
+"36091","65255","Saratoga NY","Saratoga Springs city, Saratoga NY",28491,1,0.121 
+"36091","71333","Saratoga NY","Stillwater town, Saratoga NY",9022,1,0.0383 
+"36091","78531","Saratoga NY","Waterford town, Saratoga NY",8208,1,0.0349 
+"36091","82403","Saratoga NY","Wilton town, Saratoga NY",17361,1,0.0737 
+"36093","21006","Schenectady NY","Duanesburg town, Schenectady NY",5863,1,0.0371 
+"36093","29366","Schenectady NY","Glenville town, Schenectady NY",29326,1,0.1855 
+"36093","51264","Schenectady NY","Niskayuna town, Schenectady NY",23278,1,0.1473 
+"36093","59861","Schenectady NY","Princetown town, Schenectady NY",2024,1,0.0128 
+"36093","63935","Schenectady NY","Rotterdam town, Schenectady NY",30523,1,0.1931 
+"36093","65508","Schenectady NY","Schenectady city, Schenectady NY",67047,1,0.4242 
+"36095","06893","Schoharie NY","Blenheim town, Schoharie NY",308,1,0.0104 
+"36095","10154","Schoharie NY","Broome town, Schoharie NY",863,1,0.029 
+"36095","12452","Schoharie NY","Carlisle town, Schoharie NY",1768,1,0.0595 
+"36095","16639","Schoharie NY","Cobleskill town, Schoharie NY",6086,1,0.2048 
+"36095","17651","Schoharie NY","Conesville town, Schoharie NY",687,1,0.0231 
+"36095","24724","Schoharie NY","Esperance town, Schoharie NY",1806,1,0.0608 
+"36095","27826","Schoharie NY","Fulton town, Schoharie NY",1199,1,0.0404 
+"36095","28981","Schoharie NY","Gilboa town, Schoharie NY",1111,1,0.0374 
+"36095","38440","Schoharie NY","Jefferson town, Schoharie NY",1333,1,0.0449 
+"36095","46855","Schoharie NY","Middleburgh town, Schoharie NY",3112,1,0.1047 
+"36095","61599","Schoharie NY","Richmondville town, Schoharie NY",2466,1,0.083 
+"36095","65596","Schoharie NY","Schoharie town, Schoharie NY",3107,1,0.1046 
+"36095","66542","Schoharie NY","Seward town, Schoharie NY",1583,1,0.0533 
+"36095","66641","Schoharie NY","Sharon town, Schoharie NY",1697,1,0.0571 
+"36095","72070","Schoharie NY","Summit town, Schoharie NY",1072,1,0.0361 
+"36095","83195","Schoharie NY","Wright town, Schoharie NY",1516,1,0.051 
+"36097","12914","Schuyler NY","Catharine town, Schuyler NY",1651,1,0.0922 
+"36097","13112","Schuyler NY","Cayuta town, Schuyler NY",508,1,0.0284 
+"36097","20676","Schuyler NY","Dix town, Schuyler NY",3757,1,0.2099 
+"36097","33073","Schuyler NY","Hector town, Schuyler NY",4895,1,0.2735 
+"36097","48186","Schuyler NY","Montour town, Schuyler NY",2323,1,0.1298 
+"36097","55156","Schuyler NY","Orange town, Schuyler NY",1408,1,0.0787 
+"36097","60763","Schuyler NY","Reading town, Schuyler NY",1719,1,0.096 
+"36097","75924","Schuyler NY","Tyrone town, Schuyler NY",1637,1,0.0915 
+"36099","18663","Seneca NY","Covert town, Seneca NY",2163,1,0.064 
+"36099","25505","Seneca NY","Fayette town, Seneca NY",3657,1,0.1082 
+"36099","28640","Seneca NY","Geneva city, Seneca NY",0,,0 
+"36099","38858","Seneca NY","Junius town, Seneca NY",1388,1,0.041 
+"36099","43225","Seneca NY","Lodi town, Seneca NY",1482,1,0.0438 
+"36099","55827","Seneca NY","Ovid town, Seneca NY",2847,1,0.0842 
+"36099","63440","Seneca NY","Romulus town, Seneca NY",3203,1,0.0947 
+"36099","66333","Seneca NY","Seneca Falls town, Seneca NY",9027,1,0.267 
+"36099","75902","Seneca NY","Tyre town, Seneca NY",1013,1,0.03 
+"36099","76958","Seneca NY","Varick town, Seneca NY",1656,1,0.049 
+"36099","78564","Seneca NY","Waterloo town, Seneca NY",7378,1,0.2182 
+"36101","00287","Steuben NY","Addison town, Steuben NY",2397,1,0.0256 
+"36101","03342","Steuben NY","Avoca town, Steuben NY",1990,1,0.0213 
+"36101","04770","Steuben NY","Bath town, Steuben NY",11424,1,0.1221 
+"36101","07740","Steuben NY","Bradford town, Steuben NY",806,1,0.0086 
+"36101","11880","Steuben NY","Cameron town, Steuben NY",899,1,0.0096 
+"36101","11946","Steuben NY","Campbell town, Steuben NY",3160,1,0.0338 
+"36101","12265","Steuben NY","Canisteo town, Steuben NY",3295,1,0.0352 
+"36101","12991","Steuben NY","Caton town, Steuben NY",2049,1,0.0219 
+"36101","16738","Steuben NY","Cohocton town, Steuben NY",2269,1,0.0242 
+"36101","18256","Steuben NY","Corning city, Steuben NY",10551,1,0.1127 
+"36101","18267","Steuben NY","Corning town, Steuben NY",5983,1,0.0639 
+"36101","19675","Steuben NY","Dansville town, Steuben NY",1835,1,0.0196 
+"36101","24647","Steuben NY","Erwin town, Steuben NY",8095,1,0.0865 
+"36101","27551","Steuben NY","Fremont town, Steuben NY",894,1,0.0096 
+"36101","30741","Steuben NY","Greenwood town, Steuben NY",777,1,0.0083 
+"36101","32567","Steuben NY","Hartsville town, Steuben NY",558,1,0.006 
+"36101","35661","Steuben NY","Hornby town, Steuben NY",1684,1,0.018 
+"36101","35672","Steuben NY","Hornell city, Steuben NY",8263,1,0.0883 
+"36101","35683","Steuben NY","Hornellsville town, Steuben NY",4034,1,0.0431 
+"36101","35837","Steuben NY","Howard town, Steuben NY",1389,1,0.0148 
+"36101","38319","Steuben NY","Jasper town, Steuben NY",1418,1,0.0152 
+"36101","42576","Steuben NY","Lindley town, Steuben NY",1813,1,0.0194 
+"36101","59718","Steuben NY","Prattsburgh town, Steuben NY",1983,1,0.0212 
+"36101","59982","Steuben NY","Pulteney town, Steuben NY",1258,1,0.0134 
+"36101","60653","Steuben NY","Rathbone town, Steuben NY",1093,1,0.0117 
+"36101","73836","Steuben NY","Thurston town, Steuben NY",1253,1,0.0134 
+"36101","75440","Steuben NY","Troupsburg town, Steuben NY",1017,1,0.0109 
+"36101","75737","Steuben NY","Tuscarora town, Steuben NY",1390,1,0.0149 
+"36101","76496","Steuben NY","Urbana town, Steuben NY",2122,1,0.0227 
+"36101","78861","Steuben NY","Wayland town, Steuben NY",3732,1,0.0399 
+"36101","78883","Steuben NY","Wayne town, Steuben NY",1009,1,0.0108 
+"36101","81105","Steuben NY","West Union town, Steuben NY",343,1,0.0037 
+"36101","81457","Steuben NY","Wheeler town, Steuben NY",1136,1,0.0121 
+"36101","82843","Steuben NY","Woodhull town, Steuben NY",1665,1,0.0178 
+"36103","04000","Suffolk NY","Babylon town, Suffolk NY",218223,1,0.143 
+"36103","10000","Suffolk NY","Brookhaven town, Suffolk NY",485773,1,0.3183 
+"36103","22194","Suffolk NY","East Hampton town, Suffolk NY",28385,1,0.0186 
+"36103","37000","Suffolk NY","Huntington town, Suffolk NY",204127,1,0.1338 
+"36103","38000","Suffolk NY","Islip town, Suffolk NY",339938,1,0.2228 
+"36103","59106","Suffolk NY","Poospatuck Reservation, Suffolk NY",436,1,0.0003 
+"36103","61984","Suffolk NY","Riverhead town, Suffolk NY",35902,1,0.0235 
+"36103","66839","Suffolk NY","Shelter Island town, Suffolk NY",3253,1,0.0021 
+"36103","67059","Suffolk NY","Shinnecock Reservation, Suffolk NY",819,1,0.0005 
+"36103","68000","Suffolk NY","Smithtown town, Suffolk NY",116296,1,0.0762 
+"36103","68473","Suffolk NY","Southampton town, Suffolk NY",69036,1,0.0452 
+"36103","69463","Suffolk NY","Southold town, Suffolk NY",23732,1,0.0156 
+"36105","06310","Sullivan NY","Bethel town, Sullivan NY",3959,1,0.0504 
+"36105","11759","Sullivan NY","Callicoon town, Sullivan NY",2989,1,0.038 
+"36105","16661","Sullivan NY","Cochecton town, Sullivan NY",1448,1,0.0184 
+"36105","20104","Sullivan NY","Delaware town, Sullivan NY",2203,1,0.028 
+"36105","25241","Sullivan NY","Fallsburg town, Sullivan NY",14192,1,0.1805 
+"36105","26528","Sullivan NY","Forestburgh town, Sullivan NY",808,1,0.0103 
+"36105","27573","Sullivan NY","Fremont town, Sullivan NY",1161,1,0.0148 
+"36105","34473","Sullivan NY","Highland town, Sullivan NY",2196,1,0.0279 
+"36105","42235","Sullivan NY","Liberty town, Sullivan NY",10159,1,0.1292 
+"36105","43786","Sullivan NY","Lumberland town, Sullivan NY",2243,1,0.0285 
+"36105","44809","Sullivan NY","Mamakating town, Sullivan NY",12655,1,0.161 
+"36105","49847","Sullivan NY","Neversink town, Sullivan NY",3366,1,0.0428 
+"36105","63176","Sullivan NY","Rockland town, Sullivan NY",3290,1,0.0418 
+"36105","73627","Sullivan NY","Thompson town, Sullivan NY",16550,1,0.2105 
+"36105","75759","Sullivan NY","Tusten town, Sullivan NY",1405,1,0.0179 
+"36107","04671","Tioga NY","Barton town, Tioga NY",8609,1,0.1777 
+"36107","06145","Tioga NY","Berkshire town, Tioga NY",1480,1,0.0305 
+"36107","12221","Tioga NY","Candor town, Tioga NY",5149,1,0.1063 
+"36107","49913","Tioga NY","Newark Valley town, Tioga NY",3642,1,0.0752 
+"36107","51121","Tioga NY","Nichols town, Tioga NY",2347,1,0.0484 
+"36107","55893","Tioga NY","Owego town, Tioga NY",18777,1,0.3875 
+"36107","61511","Tioga NY","Richford town, Tioga NY",1043,1,0.0215 
+"36107","70178","Tioga NY","Spencer town, Tioga NY",2968,1,0.0613 
+"36107","73968","Tioga NY","Tioga town, Tioga NY",4440,1,0.0916 
+"36109","12606","Tompkins NY","Caroline town, Tompkins NY",3334,1,0.0315 
+"36109","19620","Tompkins NY","Danby town, Tompkins NY",3421,1,0.0324 
+"36109","20962","Tompkins NY","Dryden town, Tompkins NY",13905,1,0.1315 
+"36109","24548","Tompkins NY","Enfield town, Tompkins NY",3362,1,0.0318 
+"36109","30972","Tompkins NY","Groton town, Tompkins NY",5746,1,0.0543 
+"36109","38077","Tompkins NY","Ithaca city, Tompkins NY",32108,1,0.3037 
+"36109","38088","Tompkins NY","Ithaca town, Tompkins NY",22283,1,0.2107 
+"36109","41234","Tompkins NY","Lansing town, Tompkins NY",11565,1,0.1094 
+"36109","50254","Tompkins NY","Newfield town, Tompkins NY",5126,1,0.0485 
+"36109","75990","Tompkins NY","Ulysses town, Tompkins NY",4890,1,0.0462 
+"36111","20247","Ulster NY","Denning town, Ulster NY",493,1,0.0027 
+"36111","24691","Ulster NY","Esopus town, Ulster NY",9548,1,0.0525 
+"36111","28255","Ulster NY","Gardiner town, Ulster NY",5610,1,0.0308 
+"36111","32116","Ulster NY","Hardenburgh town, Ulster NY",221,1,0.0012 
+"36111","37143","Ulster NY","Hurley town, Ulster NY",6178,1,0.034 
+"36111","39727","Ulster NY","Kingston city, Ulster NY",24069,1,0.1324 
+"36111","39738","Ulster NY","Kingston town, Ulster NY",933,1,0.0051 
+"36111","42994","Ulster NY","Lloyd town, Ulster NY",11133,1,0.0612 
+"36111","45458","Ulster NY","Marbletown town, Ulster NY",5658,1,0.0311 
+"36111","45722","Ulster NY","Marlborough town, Ulster NY",8712,1,0.0479 
+"36111","50562","Ulster NY","New Paltz town, Ulster NY",14407,1,0.0792 
+"36111","54749","Ulster NY","Olive town, Ulster NY",4226,1,0.0232 
+"36111","58552","Ulster NY","Plattekill town, Ulster NY",10424,1,0.0573 
+"36111","63011","Ulster NY","Rochester town, Ulster NY",7272,1,0.04 
+"36111","63737","Ulster NY","Rosendale town, Ulster NY",5782,1,0.0318 
+"36111","65299","Ulster NY","Saugerties town, Ulster NY",19038,1,0.1047 
+"36111","66597","Ulster NY","Shandaken town, Ulster NY",2866,1,0.0158 
+"36111","66674","Ulster NY","Shawangunk town, Ulster NY",13563,1,0.0746 
+"36111","75935","Ulster NY","Ulster town, Ulster NY",12660,1,0.0696 
+"36111","78828","Ulster NY","Wawarsing town, Ulster NY",12771,1,0.0702 
+"36111","83052","Ulster NY","Woodstock town, Ulster NY",6287,1,0.0346 
+"36113","07234","Warren NY","Bolton town, Warren NY",2012,1,0.0306 
+"36113","15319","Warren NY","Chester town, Warren NY",3086,1,0.0469 
+"36113","26715","Warren NY","3611326715",7,1,0.0001 
+"36113","29333","Warren NY","Glens Falls city, Warren NY",14830,1,0.2256 
+"36113","31335","Warren NY","Hague town, Warren NY",633,1,0.0096 
+"36113","35639","Warren NY","Horicon town, Warren NY",1471,1,0.0224 
+"36113","38715","Warren NY","Johnsburg town, Warren NY",2143,1,0.0326 
+"36113","40519","Warren NY","Lake George town, Warren NY",3502,1,0.0533 
+"36113","40662","Warren NY","Lake Luzerne town, Warren NY",3079,1,0.0468 
+"36113","60356","Warren NY","Queensbury town, Warren NY",29162,1,0.4436 
+"36113","71641","Warren NY","Stony Creek town, Warren NY",758,1,0.0115 
+"36113","73814","Warren NY","Thurman town, Warren NY",1095,1,0.0167 
+"36113","78300","Warren NY","Warrensburg town, Warren NY",3959,1,0.0602 
+"36115","02561","Washington NY","Argyle town, Washington NY",3644,1,0.0594 
+"36115","11836","Washington NY","Cambridge town, Washington NY",1952,1,0.0318 
+"36115","20885","Washington NY","Dresden town, Washington NY",537,1,0.0088 
+"36115","22656","Washington NY","Easton town, Washington NY",2279,1,0.0372 
+"36115","26715","Washington NY","Fort Ann town, Washington NY",5812,1,0.0948 
+"36115","26781","Washington NY","Fort Edward town, Washington NY",5991,1,0.0977 
+"36115","30037","Washington NY","Granville town, Washington NY",6215,1,0.1014 
+"36115","30686","Washington NY","Greenwich town, Washington NY",4868,1,0.0794 
+"36115","31885","Washington NY","Hampton town, Washington NY",857,1,0.014 
+"36115","32457","Washington NY","Hartford town, Washington NY",2193,1,0.0358 
+"36115","33040","Washington NY","Hebron town, Washington NY",1786,1,0.0291 
+"36115","38143","Washington NY","Jackson town, Washington NY",1723,1,0.0281 
+"36115","39650","Washington NY","Kingsbury town, Washington NY",12968,1,0.2115 
+"36115","60092","Washington NY","Putnam town, Washington NY",567,1,0.0092 
+"36115","64782","Washington NY","Salem town, Washington NY",2612,1,0.0426 
+"36115","81578","Washington NY","White Creek town, Washington NY",3275,1,0.0534 
+"36115","81633","Washington NY","Whitehall town, Washington NY",4023,1,0.0656 
+"36117","00000","Wayne NY","[undefined MCD], Wayne NY",0,,0 
+"36117","02440","Wayne NY","Arcadia town, Wayne NY",13731,1,0.1504 
+"36117","11473","Wayne NY","Butler town, Wayne NY",1835,1,0.0201 
+"36117","28013","Wayne NY","Galen town, Wayne NY",4415,1,0.0484 
+"36117","37165","Wayne NY","Huron town, Wayne NY",1872,1,0.0205 
+"36117","43973","Wayne NY","Lyons town, Wayne NY",5679,1,0.0622 
+"36117","44160","Wayne NY","Macedon town, Wayne NY",9270,1,0.1016 
+"36117","45645","Wayne NY","Marion town, Wayne NY",4566,1,0.05 
+"36117","55013","Wayne NY","Ontario town, Wayne NY",10446,1,0.1144 
+"36117","56198","Wayne NY","Palmyra town, Wayne NY",7403,1,0.0811 
+"36117","63605","Wayne NY","Rose town, Wayne NY",2291,1,0.0251 
+"36117","65343","Wayne NY","Savannah town, Wayne NY",1632,1,0.0179 
+"36117","68220","Wayne NY","Sodus town, Wayne NY",8028,1,0.0879 
+"36117","78102","Wayne NY","Walworth town, Wayne NY",9253,1,0.1014 
+"36117","82040","Wayne NY","Williamson town, Wayne NY",6860,1,0.0752 
+"36117","82689","Wayne NY","Wolcott town, Wayne NY",4002,1,0.0438 
+"36119","05320","Westchester NY","Bedford town, Westchester NY",17309,1,0.0172 
+"36119","18410","Westchester NY","Cortlandt town, Westchester NY",42545,1,0.0424 
+"36119","21820","Westchester NY","Eastchester town, Westchester NY",34641,1,0.0345 
+"36119","30367","Westchester NY","Greenburgh town, Westchester NY",95397,1,0.095 
+"36119","32413","Westchester NY","Harrison town, Westchester NY",28218,1,0.0281 
+"36119","42136","Westchester NY","Lewisboro town, Westchester NY",12265,1,0.0122 
+"36119","44842","Westchester NY","Mamaroneck town, Westchester NY",31758,1,0.0316 
+"36119","48895","Westchester NY","Mount Kisco town, Westchester NY",10959,1,0.0109 
+"36119","49011","Westchester NY","Mount Pleasant town, Westchester NY",44436,1,0.0442 
+"36119","49121","Westchester NY","Mount Vernon city, Westchester NY",73893,1,0.0736 
+"36119","50078","Westchester NY","New Castle town, Westchester NY",18311,1,0.0182 
+"36119","50617","Westchester NY","New Rochelle city, Westchester NY",79726,1,0.0794 
+"36119","51693","Westchester NY","North Castle town, Westchester NY",12408,1,0.0124 
+"36119","53517","Westchester NY","North Salem town, Westchester NY",5243,1,0.0052 
+"36119","55541","Westchester NY","Ossining town, Westchester NY",40061,1,0.0399 
+"36119","56979","Westchester NY","Peekskill city, Westchester NY",25431,1,0.0253 
+"36119","57012","Westchester NY","Pelham town, Westchester NY",13078,1,0.013 
+"36119","59685","Westchester NY","Pound Ridge town, Westchester NY",5082,1,0.0051 
+"36119","64309","Westchester NY","Rye city, Westchester NY",16592,1,0.0165 
+"36119","64320","Westchester NY","Rye town, Westchester NY",49613,1,0.0494 
+"36119","65442","Westchester NY","Scarsdale town, Westchester NY",18253,1,0.0182 
+"36119","68308","Westchester NY","Somers town, Westchester NY",21541,1,0.0214 
+"36119","81677","Westchester NY","White Plains city, Westchester NY",59559,1,0.0593 
+"36119","84000","Westchester NY","Yonkers city, Westchester NY",211569,1,0.2106 
+"36119","84077","Westchester NY","Yorktown town, Westchester NY",36569,1,0.0364 
+"36121","02418","Wyoming NY","Arcade town, Wyoming NY",4187,1,0.1033 
+"36121","03012","Wyoming NY","Attica town, Wyoming NY",5790,1,0.1429 
+"36121","05936","Wyoming NY","Bennington town, Wyoming NY",3235,1,0.0798 
+"36121","12782","Wyoming NY","Castile town, Wyoming NY",2711,1,0.0669 
+"36121","18696","Wyoming NY","Covington town, Wyoming NY",1253,1,0.0309 
+"36121","21369","Wyoming NY","Eagle town, Wyoming NY",1105,1,0.0273 
+"36121","27980","Wyoming NY","Gainesville town, Wyoming NY",2009,1,0.0496 
+"36121","28596","Wyoming NY","Genesee Falls town, Wyoming NY",402,1,0.0099 
+"36121","38341","Wyoming NY","Java town, Wyoming NY",1972,1,0.0487 
+"36121","46877","Wyoming NY","Middlebury town, Wyoming NY",1339,1,0.033 
+"36121","55222","Wyoming NY","Orangeville town, Wyoming NY",1283,1,0.0317 
+"36121","57254","Wyoming NY","Perry town, Wyoming NY",5832,1,0.1439 
+"36121","57826","Wyoming NY","Pike town, Wyoming NY",975,1,0.0241 
+"36121","66773","Wyoming NY","Sheldon town, Wyoming NY",2367,1,0.0584 
+"36121","78344","Wyoming NY","Warsaw town, Wyoming NY",5316,1,0.1312 
+"36121","81325","Wyoming NY","Wethersfield town, Wyoming NY",755,1,0.0186 
+"36123","04594","Yates NY","Barrington town, Yates NY",1541,1,0.0622 
+"36123","06002","Yates NY","Benton town, Yates NY",2985,1,0.1205 
+"36123","38044","Yates NY","Italy town, Yates NY",1099,1,0.0444 
+"36123","38583","Yates NY","Jerusalem town, Yates NY",4405,1,0.1778 
+"36123","47020","Yates NY","Middlesex town, Yates NY",1377,1,0.0556 
+"36123","47504","Yates NY","Milo town, Yates NY",6803,1,0.2746 
+"36123","59597","Yates NY","Potter town, Yates NY",1858,1,0.075 
+"36123","70816","Yates NY","Starkey town, Yates NY",3407,1,0.1375 
+"36123","75055","Yates NY","Torrey town, Yates NY",1299,1,0.0524 
