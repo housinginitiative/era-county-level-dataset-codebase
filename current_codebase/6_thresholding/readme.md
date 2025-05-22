@@ -23,5 +23,5 @@ Fourth, we applied a geographic threshold: if an otherwise passing grantee signi
 
 We defined 'significantly overlap' as: more than 20% of the population of the geographic area served by the passing grantee being located in the overlap(s) with the geographic area(s) served by non-passing grantee(s). This was always taken to be the case for county and city grantees vis-à-vis their state grantees.
 
-Flowcharts illustrating these thresholding steps and the number of grantees dropped at each juncture are available under `outputs/aggregation_descriptives`.
+Flowcharts illustrating these thresholding steps and the number of grantees dropped at each juncture are available under `outputs/thresholding_descriptives`.
 
