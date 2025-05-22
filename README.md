@@ -6,7 +6,7 @@
 
 This repository hosts the code which reads in PHPDF data, generates data quality metrics, thresholds the data according to data quality standards, and aggregates the thresholded data.
 
-For background information, please see the project site [here](https://housinginitiative.github.io/era-county-level-dataset-public/)
+For background information, please see the project site [here](https://housinginitiative.github.io/era-county-level-dataset-public/).
 
 ## Contact
 
